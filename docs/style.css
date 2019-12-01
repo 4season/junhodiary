@@ -1,4 +1,4 @@
-body{
+body {
   margin:0;
 }
 h1 {
@@ -36,7 +36,7 @@ h2 {
 #grid #story {
   padding-right:50px;
 }
-@media(max-width:350px) {
+@media(max-width:300px) {
   #grid {
     display:block;
   }
